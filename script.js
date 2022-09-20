@@ -1,1 +1,3 @@
-alert('Olá');
+function gerarTab() {
+    window.alert('Olá')
+}
